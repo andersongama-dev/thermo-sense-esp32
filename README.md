@@ -18,7 +18,7 @@ O sistema realiza leituras periódicas do sensor e trata erros utilizando verifi
 
 ---
 
-## 🔧 Componentes
+## Componentes
 
 * ESP32
 * Sensor DHT11 ou DHT22
