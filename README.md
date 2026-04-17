@@ -101,18 +101,18 @@ void loop() {
 
 Você pode rodar esse projeto online sem precisar de hardware:
 
-👉 [https://wokwi.com/](https://wokwi.com/)
+👉 [https://wokwi.com/](https://wokwi.com/projects/461509842433975297)
 
 ### Como configurar:
 
 1. Acesse o site
-2. Clique em **“New Project” → ESP32**
+2. Clique em **“New Project” → Arduino UNO**
 3. Adicione o componente **DHT12**
 4. Conecte:
 
    * VCC → 3.3V
    * GND → GND
-   * DATA → GPIO 4
+   * DATA → PWM 4
 5. Cole o código acima
 6. Clique em **Start Simulation**
 
