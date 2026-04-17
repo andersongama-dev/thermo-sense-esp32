@@ -107,7 +107,7 @@ Você pode rodar esse projeto online sem precisar de hardware:
 
 1. Acesse o site
 2. Clique em **“New Project” → ESP32**
-3. Adicione o componente **DHT11**
+3. Adicione o componente **DHT12**
 4. Conecte:
 
    * VCC → 3.3V
